@@ -1,0 +1,104 @@
+#myimg
+{
+    max-height:800px;
+}
+#intro
+{
+  border:1px solid black;
+  padding:30px;  
+}
+.abtme
+{
+    padding:75px;
+}
+#abtme-center
+{
+    padding-top:100px;
+}
+#intro p
+{
+    font-size:20px;
+}
+.top-1
+{
+    background-color:#333333;
+    color:white;
+}
+.whaticando ul li
+{
+    list-style:none;
+}
+
+.whaticando
+{
+    font-size:20px;
+}
+.whatimlearning
+{
+    font-size:20px;
+}
+.logo{
+width:40px;
+height:40px;
+padding:5px;
+}
+#logo-1 :hover
+{
+    width:45px;
+    height:45px;
+}
+#logo-2 :hover
+{
+    width:45px;
+    height:45px;
+}
+#logo-3 :hover
+{
+    width:45px;
+    height:45px;
+}
+#logo-4 :hover
+{
+    width:45px;
+    height:45px;
+}
+#logo-5 :hover
+{
+    width:45px;
+    height:45px;
+}
+/* .whatimlearning-background1
+{
+    border-top-left-radius:100px;
+}
+.whatimlearning-background2
+{
+    border-bottom-right-radius:100px;
+} */
+#prjcthvr1,#prjcthvr2,#prjcthvr3,#prjcthvr4,#prjcthvr5,#prjcthvr6 a
+{
+    text-decoration:none;
+    border-bottom-style: dotted;
+    border-bottom:1px solid black;
+}
+#prjcthvr6 a :hover
+{
+    font-size:30px;
+}
+#footer
+{
+    background-color:#333333;
+    color:white; 
+}
+#footer-row
+{
+    padding:20px;
+}
+table{
+    padding:20px;
+    width:100%;
+}
+table th{
+    margin-left:120px;
+}
+
