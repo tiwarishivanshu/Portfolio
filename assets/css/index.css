@@ -11,10 +11,6 @@
 {
     padding:75px;
 }
-#abtme-center
-{
-    padding-top:100px;
-}
 #intro p
 {
     font-size:20px;
@@ -102,3 +98,7 @@ table th{
     margin-left:120px;
 }
 
+.whatimlearning-background1
+{
+    padding:20px;
+}
