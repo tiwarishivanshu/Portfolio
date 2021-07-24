@@ -1,10 +1,14 @@
+body{
+    background-color:#333333;
+    color:white;
+}
 #myimg
 {
     max-height:800px;
 }
 #intro
 {
-  border:1px solid black;
+  border:1px solid white;
   padding:30px;  
 }
 .abtme
@@ -101,4 +105,38 @@ table th{
 .whatimlearning-background1
 {
     padding:20px;
+}
+html
+{
+    scroll-behavior:smooth;
+}
+.txt-styl
+{
+    border-bottom-left-radius:50px;
+    border-top-left-radius:50px;
+    background-color:white;
+    color:#333333;
+    padding:10px;
+}
+a
+{
+    text-decoration:none;
+    color:white;
+}
+.team
+{
+    padding:10px;
+    margin-bottom:20px;
+}
+.img1:hover
+{
+    transform:scale(1.5);
+}
+.img2:hover
+{
+    transform:scale(1.5);
+}
+.img3:hover
+{
+    transform:scale(1.5);
 }
